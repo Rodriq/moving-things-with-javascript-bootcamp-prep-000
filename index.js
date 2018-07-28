@@ -1,5 +1,17 @@
 const app = "I don't do much."
 
+describe('index', () => {
+  
+  jsdom({
+    src: fs.readFileSync(path.resolve(__dirname, '..', 'index.js'), 'utf-8')
+  })
+  
+
+  it('runs', () => {
+    expect(true).to.be.true
+  })
+})
+
 var dodger = document.getElementById('dodger')
 function moveDodgerRight() {
   var rightNumbers = dodger.style.right.replace('px', '')
