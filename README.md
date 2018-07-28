@@ -6,7 +6,7 @@ Moving Things with JavaScript
 1. Explain how to update an element's position on the page
 2. Practice updating an element's position on the page
 3. Practice moving an element in response to a browser event
-
+q/moving-things-with-javascript-bootcamp-prep-000" at http://165.227.145.70:37164
 ## Introduction
 
 Think back to the first video game you played. (If you've never played a video game, try [this one](http://terrycavanaghgames.com/dontlookback/).)
